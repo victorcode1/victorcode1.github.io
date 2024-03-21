@@ -126853,7 +126853,7 @@ A.bb0.prototype={
 $0(){A.dH(this.a,!1).e5(null)},
 $S:0}
 A.bb1.prototype={
-$0(){A.N1(new A.z8("https://portafolio-37dbb.web.app/certificados/"+this.a))},
+$0(){A.N1(new A.z8("https://portafolio-37dbb.web.app/certificados/certificadoss/"+this.a))},
 $S:0}
 A.Pm.prototype={
 H(a){var s=this,r=null,q=B.d.bj(127.5),p=A.eD(A.bhi(A.an(q,255,255,255),A.ff(B.Q9,B.m,r,r),!1,new A.aFY(s))),o=A.ct(r,r,10),n=s.d.a,m=s.c.length
