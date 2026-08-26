@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.victorflores.streambeat",
+      "sha256_cert_fingerprints": [
+        "17:88:9A:44:A2:32:C1:CE:D4:14:16:8F:B0:E8:0A:74:59:D4:9B:E3:CB:ED:4A:4D:67:63:57:AB:A9:A3:DF:70"
+      ]
+    }
+  }
+]
